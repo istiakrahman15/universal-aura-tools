@@ -1,0 +1,6 @@
+{
+  "name": "Universal Aura Tools",
+  "description": "A premium, modern, AI-powered collection of online tools for developers, writers, designers, and students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
