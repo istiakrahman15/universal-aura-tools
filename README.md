@@ -49,6 +49,8 @@ To maintain strict enterprise standards, full structural guides, deployment rout
 
 1. **Clone & Install Dependencies:**
    ```bash
+   git clone https://github.com/istiakrahman15/universal-aura-tools.git
+   cd universal-aura-tools
    npm install
    ```
 
