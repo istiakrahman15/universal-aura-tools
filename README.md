@@ -1,13 +1,13 @@
 # Universal Aura Suite
 
-A premium, high-fidelity command workstation containing over 19+ client-side developers, design, and content utilities. Engineered for speed, atomic layout precision, and offline accessibility.
+A premium, high-fidelity command workstation containing 19+ client-side developer tools, design, and content utilities. Engineered for speed, atomic layout precision, and offline accessibility.
 
 ## 🚀 Features
 
 * **AI Copywriting & Code Suite:** Fully context-aware writing partners, text simplifiers, translators, and semantic code explainers powered by the Google Gemini model.
 * **Pixel-Perfect Media Engines:** High-quality image compression, precise resizing, interactive color picker, and layout palette extractors.
 * **Strict Developer Utilities:** JSON Formatter, Base64 encoder/decoder, Hash generation, Regex helper, and JWT inspectors.
-* **Universal Math & Formatting:** Advanced age calculators, universal unit convertors, percentages, and case converters.
+* **Universal Math & Formatting:** Advanced age calculators, universal unit converters, percentages, and case converters.
 * **Persistent Command Center:** Beautiful, fully secure bento-grid dashboard tracking usage statistics, favorite tools, and detailed activity logs.
 
 ---
